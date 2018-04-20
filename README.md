@@ -8,7 +8,7 @@ Introduction
 
 - [Powerpoint from class presentation availailable at Google Slides](https://docs.google.com/presentation/d/1VZsxoFPOCN1OIdYK7GBB5aBmsGbj0_RzqxmKONj5-dg/edit?usp=sharing)
 
-- Below is offical documentation for Firebase
+- Below is offical documentation for Firebase Sample Code
 
 
 
