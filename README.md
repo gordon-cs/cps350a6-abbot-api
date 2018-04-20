@@ -1,10 +1,16 @@
-Firebase Database Quickstart
+Firebase Database Readme
 =============================
 
 Introduction
 ------------
 
 - [Read more about Firebase Database](https://firebase.google.com/docs/database)
+
+- [Powerpoint from class presentation availailable at Google Slides](https://docs.google.com/presentation/d/1VZsxoFPOCN1OIdYK7GBB5aBmsGbj0_RzqxmKONj5-dg/edit?usp=sharing)
+
+- Below is offical documentation for Firebase
+
+
 
 Getting Started
 ---------------
